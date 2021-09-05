@@ -1,0 +1,3 @@
+git "https://chromium.googlesource.com/webm/libwebp" "v1.2.1"
+github "nickaroot/PINCache" "0576cc92e67381b75b4f1a2f37ae0a823f41a2c4"
+github "pinterest/PINOperation" "1.2.1"

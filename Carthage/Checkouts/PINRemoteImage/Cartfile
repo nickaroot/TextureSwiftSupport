@@ -1,0 +1,3 @@
+git "https://chromium.googlesource.com/webm/libwebp" "v1.2.1"
+github "nickaroot/PINCache" "xcframework"
+github "pinterest/PINOperation"
