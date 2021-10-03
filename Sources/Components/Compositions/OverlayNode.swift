@@ -21,7 +21,7 @@
 
 import Foundation
 
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 open class OverlayNode<Content: ASDisplayNode, Overlay: ASDisplayNode>: NamedDisplayNodeBase {
   

@@ -21,7 +21,7 @@
 
 import Foundation
 
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 open class WrapperCellNode<Content : ASDisplayNode> : NamedDisplayCellNodeBase {
   

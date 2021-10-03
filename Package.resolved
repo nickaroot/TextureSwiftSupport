@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IGListKit",
+        "repositoryURL": "https://github.com/Instagram/IGListKit",
+        "state": {
+          "branch": "master",
+          "revision": "2f37d18be31886b95424adcb6d995a260a2bfc60",
+          "version": null
+        }
+      },
+      {
+        "package": "libwebp",
+        "repositoryURL": "https://github.com/SDWebImage/libwebp-Xcode",
+        "state": {
+          "branch": null,
+          "revision": "2b3b43faaef54d1b897482428428357b7f7cd08b",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "PINCache",
+        "repositoryURL": "https://github.com/pinterest/PINCache.git",
+        "state": {
+          "branch": null,
+          "revision": "875c654984fb52b47ca65ae70d24852b0003ccd9",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/pinterest/PINOperation.git",
+        "state": {
+          "branch": null,
+          "revision": "44d8ca154a4e75a028a5548c31ff3a53b90cef15",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "PINRemoteImage",
+        "repositoryURL": "https://github.com/pinterest/PINRemoteImage.git",
+        "state": {
+          "branch": "master",
+          "revision": "0a3bf07f1437ec128cc787efb79b8f53b023f6be",
+          "version": null
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
+          "version": "6.2.0"
+        }
+      },
+      {
+        "package": "Texture",
+        "repositoryURL": "https://github.com/nickaroot/Texture.git",
+        "state": {
+          "branch": "spm",
+          "revision": "2949b781ea4c6eb9bee054abeb58ffee23d1bc4f",
+          "version": null
+        }
+      },
+      {
+        "package": "Verge",
+        "repositoryURL": "https://github.com/VergeGroup/Verge.git",
+        "state": {
+          "branch": null,
+          "revision": "3f9dca1d48d9381f4d05a923dd4ca59d77d1b4a6",
+          "version": "8.13.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

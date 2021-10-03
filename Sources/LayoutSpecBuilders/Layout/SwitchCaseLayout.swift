@@ -20,7 +20,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 /**
  To control the layout or nodes with hiding or display by some conditions.

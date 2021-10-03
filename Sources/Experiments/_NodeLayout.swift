@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 /// Experimental:
 /// This property-wrapper allows to update layout automatically when wrapped-value changed.

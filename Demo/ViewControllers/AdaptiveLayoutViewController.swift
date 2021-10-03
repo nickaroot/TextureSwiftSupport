@@ -8,7 +8,7 @@
 
 import Foundation
 
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 import TextureSwiftSupport
 
 final class AdaptiveLayoutViewController: DisplayNodeViewController {

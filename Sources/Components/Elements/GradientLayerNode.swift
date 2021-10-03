@@ -19,7 +19,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 fileprivate final class GradientLayerView: UIView {
   override class var layerClass: AnyClass {

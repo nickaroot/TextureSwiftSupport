@@ -21,7 +21,7 @@
 
 import Foundation
 
-import AsyncDisplayKit
+import AsyncDisplayKitIGListKit
 
 @available(*, deprecated, renamed: "ShapeDrawingNode")
 public typealias ShapeRenderingNode = ShapeDrawingNode
