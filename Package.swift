@@ -20,12 +20,14 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/nickaroot/Texture.git", .branch("spm")),
+        .package(url: "https://github.com/VergeGroup/Verge.git", from: "8.12.2"),
     ],
     targets: [
         .target(
             name: "TextureSwiftSupport",
             dependencies: [
-                .product(name: "AsyncDisplayKit", package: "Texture")
+                .product(name: "AsyncDisplayKit", package: "Texture"),
+                .product(name: "Verge", package: "Verge"),
             ],
             path: ".",
             sources: ["Sources/"]
