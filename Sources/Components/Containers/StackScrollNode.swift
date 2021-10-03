@@ -1,7 +1,7 @@
 
 import Foundation
 
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 /// Backing Component is ASCollectionNode
 open class StackScrollNode : NamedDisplayNodeBase, ASCollectionDelegate, ASCollectionDataSource {

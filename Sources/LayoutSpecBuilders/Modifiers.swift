@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 public enum Edge: Int8, CaseIterable {
   

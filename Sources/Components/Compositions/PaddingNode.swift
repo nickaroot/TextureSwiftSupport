@@ -22,7 +22,7 @@
 
 import Foundation
 
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 /// A container node that apply padding to the body node with Composition
 open class PaddingNode<Content: ASDisplayNode>: ASDisplayNode {

@@ -21,7 +21,7 @@
 
 import Foundation
 
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 open class BackgroundNode<Content: ASDisplayNode, Background: ASDisplayNode>: NamedDisplayNodeBase {
   

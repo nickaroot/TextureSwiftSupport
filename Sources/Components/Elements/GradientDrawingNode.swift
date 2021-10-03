@@ -1,7 +1,7 @@
 //
 
 import Foundation
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 /**
  A display node that displays the gradient with CoreGraphics based drawing.

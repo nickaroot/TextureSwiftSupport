@@ -21,7 +21,7 @@
 
 import Foundation
 
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 /// A composition node that masks a node with another node.
 ///

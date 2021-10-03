@@ -8,7 +8,7 @@
 
 import Foundation
 
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 fileprivate final class BackingShapeLayerNode : ASDisplayNode {
   

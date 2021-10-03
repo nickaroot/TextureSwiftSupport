@@ -25,7 +25,7 @@ let package = Package(
         .target(
             name: "TextureSwiftSupport",
             dependencies: [
-                .product(name: "AsyncDisplayKitIGListKit", package: "Texture"),
+                .product(name: "AsyncDisplayKit", package: "Texture"),
                 .product(name: "Verge", package: "Verge"),
             ],
             path: ".",

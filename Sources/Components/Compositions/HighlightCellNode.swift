@@ -1,4 +1,4 @@
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 open class HighlightCellNode<D: ASDisplayNode>: NamedDisplayCellNodeBase {
 

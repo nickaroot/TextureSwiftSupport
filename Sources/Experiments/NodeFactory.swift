@@ -1,6 +1,6 @@
 
 import Foundation
-import AsyncDisplayKitIGListKit
+import AsyncDisplayKit
 
 fileprivate var _storageKey: Void?
 
