@@ -1,0 +1,36 @@
+// swift-tools-version:5.3
+// The swift-tools-version declares the minimum version of Swift required to build this package.
+
+import PackageDescription
+
+let package = Package(
+    name: "TextureSwiftSupport",
+    defaultLocalization: "en",
+    platforms: [
+             .macOS(.v10_15),
+             .iOS(.v10),
+             .tvOS(.v10)
+         ],
+    products: [
+        // Products define the executables and libraries a package produces, and make them visible to other packages.
+        .library(
+            name: "TextureSwiftSupport",
+            type: .dynamic,
+            targets: ["TextureSwiftSupport"]),
+    ],
+    dependencies: [
+        .package(url: "https://github.com/nickaroot/Texture.git", .branch("spm")),
+    ],
+    targets: [
+        .target(
+            name: "TextureSwiftSupport",
+            dependencies: [
+                .product(name: "AsyncDisplayKit", package: "Texture")
+            ],
+            path: ".",
+            sources: ["Sources/"]
+        ),
+    ],
+    cLanguageStandard: .c11,
+    cxxLanguageStandard: .cxx11
+)
